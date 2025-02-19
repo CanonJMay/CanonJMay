@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeafPupper
+- 👋 Hi, I’m @Cancode
 - 👀 I’m interested in Guitar, Art, Coding, ect.
 - 🌱 I’m currently learning Minecraft Modding.
 - 💞️ I’m looking to collaborate on ...
