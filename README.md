@@ -1,7 +1,17 @@
 - 👋 Hi, I’m @SpadeOverflow
-- 👀 I’m interested in Guitar, Art, Coding, Homelabbing, ect.
-- 🌱 I’m currently learning Minecraft Modding.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in: Guitar, Art, Coding, Homelabbing, ect.
+- 🌱 I’m currently learning: Minecraft Modding.
+- 💞️ I’m looking to collaborate on: N/A
+- 📫 How to reach me: N/A
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Electronic Engineering Major
+
+- Links:
+  - Electronics:
+    - Parts:
+      - [ServerPartDeals](https://serverpartdeals.com)
+      - 
+    - Keyboards:
+      - Parts:
+        - [Typeractive](https://typeractive.xyz)
+        - [CannonKeys](https://cannonkeys.com)
