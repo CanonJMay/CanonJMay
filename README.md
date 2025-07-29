@@ -9,14 +9,15 @@
 - Links:
   - Computers:
     - Parts:
-      - *Syetem Planners*
-      - [PCPartPicker](https://pcpartpicker.com)
-      - *Sellers*
-      - [NewEgg](https://www.newegg.com)
-      - [Amazon](https://www.amazon.com)
-      - [MicroCenter](https://www.microcenter.com)
-      - [B&H](https://www.bhphotovideo.com)
-      - [StarforgeSystems](https://starforgesystems.com) *Good for themed cases*
+      - Syetem Planners:
+        - [PCPartPicker](https://pcpartpicker.com)
+      - Sellers:
+        - [NewEgg](https://www.newegg.com)
+        - [Amazon](https://www.amazon.com)
+        - [MicroCenter](https://www.microcenter.com)
+        - [B&H](https://www.bhphotovideo.com)
+    
+        - [StarforgeSystems](https://starforgesystems.com) *Good for themed cases*
     - Prebuilts:
       - [NZXT](https://nzxt.com)
       - [StarforgeSystems](https://starforgesystems.com)
