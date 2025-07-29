@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Electronic Engineering Major
 
-- PartLinks:
+- Links:
   - Electronics:
     - PCB:
       - [PCBWay](https://www.pcbway.com)
