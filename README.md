@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpadeOverflow
+- 👋 Hi, I’m @CanonJMay (AKA SpadeOverflow)
 - 👀 I’m interested in: Guitar, Art, Coding, Homelabbing, ect.
 - 🌱 I’m currently learning: Minecraft Modding.
 - 💞️ I’m looking to collaborate on: N/A
