@@ -19,7 +19,7 @@
         - [Amazon](https://www.amazon.com)
         - [MicroCenter](https://www.microcenter.com)
         - [B&H](https://www.bhphotovideo.com)
-        - [StarforgeSystems](https://starforgesystems.com) *Good for themed cases*
+        - [StarforgeSystems](https://starforgesystems.com) - *Good for themed cases*
   - Electronics:
     - Parts:
       - [ServerPartDeals](https://serverpartdeals.com)
