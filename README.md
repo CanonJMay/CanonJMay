@@ -8,10 +8,19 @@
 
 - Links:
   - Electronics:
-    - PCB:
-      - [PCBWay](https://www.pcbway.com)
     - Parts:
       - [ServerPartDeals](https://serverpartdeals.com)
+      - [DigiKey](https://www.digikey.com)
+      - [Mouser](https://www.mouser.com)
+      - [Adafruit](https://www.adafruit.com)
+      - [SparkFun](https://www.sparkfun.com)
+      - [AlliedElectronics](https://us.rs-online.com)
+      - [RaspberryPi](https://www.raspberrypi.com)
+      - [Arduino](https://www.arduino.cc)
+    - PCB:
+      - [PCBWay](https://www.pcbway.com)
     - Keyboards:
       - [Typeractive](https://typeractive.xyz)
       - [CannonKeys](https://cannonkeys.com)
+      - [KeebMaker](https://keebmaker.com)
+      - [CandyKeys](https://candykeys.com)
