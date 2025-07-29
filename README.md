@@ -9,17 +9,17 @@
 - Links:
   - Computers:
     - Parts:
-      - #System Planer#
-      -[PCPartPicker](https://pcpartpicker.com)
-      - #Sellers#
-      -[NewEgg](https://www.newegg.com)
-      -[Amazon](https://www.amazon.com)
-      -[MicroCenter](https://www.microcenter.com)
-      -[B&H](https://www.bhphotovideo.com)
-      -[StarforgeSystems](https://starforgesystems.com) #Sells Cases#
+      - #System Planer
+      - [PCPartPicker](https://pcpartpicker.com)
+      - #Sellers
+      - [NewEgg](https://www.newegg.com)
+      - [Amazon](https://www.amazon.com)
+      - [MicroCenter](https://www.microcenter.com)
+      - [B&H](https://www.bhphotovideo.com)
+      - [StarforgeSystems](https://starforgesystems.com) #Sells Cases#
     - Prebuilts:
-      -[NZXT](https://nzxt.com)
-      -[StarforgeSystems](https://starforgesystems.com)
+      - [NZXT](https://nzxt.com)
+      - [StarforgeSystems](https://starforgesystems.com)
   - Electronics:
     - Parts:
       - [ServerPartDeals](https://serverpartdeals.com)
