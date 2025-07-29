@@ -6,34 +6,34 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Electronic Engineering Major
 
-- **Links:**
-  - **Computers:**
-    - **Parts:**
-      - **System Planners:**
+- Links:
+  - Computers:
+    - Prebuilts:
+      - [NZXT](https://nzxt.com)
+      - [StarforgeSystems](https://starforgesystems.com)
+    - Parts:
+      - Syetem Planners:
         - [PCPartPicker](https://pcpartpicker.com)
-      - **Sellers:**
+      - Sellers:
         - [NewEgg](https://www.newegg.com)
         - [Amazon](https://www.amazon.com)
         - [MicroCenter](https://www.microcenter.com)
         - [B&H](https://www.bhphotovideo.com)
-        - [Starforge Systems](https://starforgesystems.com) — *Good for themed cases*
-    - **Prebuilts:**
-      - [NZXT](https://nzxt.com)
-      - [Starforge Systems](https://starforgesystems.com)
-  - **Electronics:**
-    - **Parts:**
-      - [Server Part Deals](https://serverpartdeals.com)
+        - [StarforgeSystems](https://starforgesystems.com) *Good for themed cases*
+  - Electronics:
+    - Parts:
+      - [ServerPartDeals](https://serverpartdeals.com)
       - [DigiKey](https://www.digikey.com)
       - [Mouser](https://www.mouser.com)
       - [Adafruit](https://www.adafruit.com)
       - [SparkFun](https://www.sparkfun.com)
-      - [Allied Electronics](https://us.rs-online.com)
-      - [Raspberry Pi](https://www.raspberrypi.com)
+      - [AlliedElectronics](https://us.rs-online.com)
+      - [RaspberryPi](https://www.raspberrypi.com)
       - [Arduino](https://www.arduino.cc)
-    - **PCB:**
+    - PCB:
       - [PCBWay](https://www.pcbway.com)
-    - **Keyboards:**
+    - Keyboards:
       - [Typeractive](https://typeractive.xyz)
-      - [Cannon Keys](https://cannonkeys.com)
+      - [CannonKeys](https://cannonkeys.com)
       - [KeebMaker](https://keebmaker.com)
       - [CandyKeys](https://candykeys.com)
