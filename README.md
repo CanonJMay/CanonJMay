@@ -12,7 +12,6 @@
       - [PCBWay](https://www.pcbway.com)
     - Parts:
       - [ServerPartDeals](https://serverpartdeals.com)
-      - 
     - Keyboards:
       - [Typeractive](https://typeractive.xyz)
       - [CannonKeys](https://cannonkeys.com)
