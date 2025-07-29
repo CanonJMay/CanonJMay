@@ -8,10 +8,11 @@
 
 - Links:
   - Electronics:
+    - PCB:
+      - [PCBWay](https://www.pcbway.com)
     - Parts:
       - [ServerPartDeals](https://serverpartdeals.com)
       - 
     - Keyboards:
-      - Parts:
-        - [Typeractive](https://typeractive.xyz)
-        - [CannonKeys](https://cannonkeys.com)
+      - [Typeractive](https://typeractive.xyz)
+      - [CannonKeys](https://cannonkeys.com)
