@@ -20,6 +20,7 @@
         - [MicroCenter](https://www.microcenter.com)
         - [B&H](https://www.bhphotovideo.com)
         - [StarforgeSystems](https://starforgesystems.com) - *Good for themed cases*
+        - [Framework](https://frame.work/marketplace/mainboards) - *For Laptop stuff*
   - Electronics:
     - Parts:
       - [ServerPartDeals](https://serverpartdeals.com)
